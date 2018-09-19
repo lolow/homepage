@@ -63,8 +63,8 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   
   # Details for the Contact Widget
-  email = "ldrouet∆gmail.comg"
-  address = "BASE, Via Bergognone Da Fossano 34, 20144 Milan, ITALY"
+  email = "ldrouet∆gmail.com"
+  address = "BASE Milano, Via Bergognone Da Fossano 34, 20144 Milan, ITALY"
   office_hours = ""
   phone = ""
   skype = "lolow225"
@@ -310,10 +310,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[menu.main]]
-    name = "CV"
-    url = "files/cv_laurent_drouet.pdf"
-    weight = 7
+# [[menu.main]]
+#    name = "CV"
+#    url = "files/cv_laurent_drouet.pdf"
+#    weight = 7
 
 # Search.
 [params.search]
