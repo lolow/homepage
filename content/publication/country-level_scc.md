@@ -63,6 +63,12 @@ caption = "Photo by Paxson Woelber on Unsplash"
 
 +++
 
+### Github
+
+This paper has a repository at https://country-level-scc.github.io.
+
+### Online explorer
+
 In this study, we have generated the Social Cost of Carbon of all
 countries using different socio-economic, climatic or damage assumptions.
 This is a large database. So, I developed an online interactive tool 
@@ -71,6 +77,14 @@ https://country-level-scc.github.io/explorer.
 
 {{< figure src="/img/cscc_explorer.gif" title="The Country-level Social Cost of Carbon explorer" link="https://country-level-scc.github.io/explorer" target="_blank" >}}
 
+### Selection of Media Coverage
 
-Additionnaly, a website gathers 
-all the material related to this paper at https://country-level-scc.github.io.
+* Ars Technica: [The US would suffer some of the biggest costs of climate change](https://arstechnica.com/science/2018/09/the-us-would-suffer-some-of-the-biggest-costs-of-climate-change)
+* European Scientist: [Country-level social cost of climate change: US and China among the countries most affected ](https://www.europeanscientist.com/en/environment/country-level-social-cost-of-climate-change-us-and-china-among-the-countries-that-will-be-most-affected/)
+* Gizmodo: [Carbon Emissions Could Be Costing the US 8 Times What Trump’s EPA Estimates](https://earther.gizmodo.com/carbon-emissions-could-be-costing-the-us-8-times-what-t-1829304752)
+* Grist: [Psst, Trump. Acting on climate change is a great deal for the U.S.](https://grist.org/article/psst-trump-acting-on-climate-change-is-a-great-deal-for-the-u-s/)
+* Minnesota Public Radio News: [Study: Social cost of carbon emissions much higher than what U.S. is using](https://www.mprnews.org/story/2018/09/29/social-cost-carbon)
+* Nature: [The costs of climate inaction](https://www.nature.com/articles/d41586-018-06827-x)
+* New York Post: [US to get slammed by economic impact of climate change](https://nypost.com/2018/09/25/us-to-get-slammed-by-economic-impact-of-climate-change)
+* Times of India: [Research finds India stands to lose most from climate change](https://timesofindia.indiatimes.com/city/nagpur/research-finds-india-stands-to-lose-most-from-climate-change/articleshow/65941725.cms)
+* Vox: [Climate change is a global injustice. A new study shows why.] (https://www.vox.com/2018/9/26/17897614/climate-change-social-cost-carbon)
