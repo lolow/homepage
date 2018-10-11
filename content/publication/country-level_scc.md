@@ -83,6 +83,8 @@ https://country-level-scc.github.io/explorer.
 * European Scientist: [Country-level social cost of climate change: US and China among the countries most affected ](https://www.europeanscientist.com/en/environment/country-level-social-cost-of-climate-change-us-and-china-among-the-countries-that-will-be-most-affected/)
 * Gizmodo: [Carbon Emissions Could Be Costing the US 8 Times What Trump’s EPA Estimates](https://earther.gizmodo.com/carbon-emissions-could-be-costing-the-us-8-times-what-t-1829304752)
 * Grist: [Psst, Trump. Acting on climate change is a great deal for the U.S.](https://grist.org/article/psst-trump-acting-on-climate-change-is-a-great-deal-for-the-u-s/)
+* The Guardian: [New study finds incredibly high carbon pollution costs – especially for the US and India](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2018/oct/01/new-study-finds-incredibly-high-carbon-pollution-costs-especially-for-the-us-and-india)
+* Inside Climate News: [Climate Change Will Cost U.S. More in Economic Damage Than Any Other Country But One](https://insideclimatenews.org/news/24092018/climate-change-economic-damage-america-social-cost-carbon-china-india-russia)
 * Minnesota Public Radio News: [Study: Social cost of carbon emissions much higher than what U.S. is using](https://www.mprnews.org/story/2018/09/29/social-cost-carbon)
 * Nature: [The costs of climate inaction](https://www.nature.com/articles/d41586-018-06827-x)
 * New York Post: [US to get slammed by economic impact of climate change](https://nypost.com/2018/09/25/us-to-get-slammed-by-economic-impact-of-climate-change)
