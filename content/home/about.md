@@ -10,6 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Numerical Methods",
+    "Convex Optimization",
     "Climate Change",
     "Integrated Assessment Modelling",
     "Decision Making under Uncertainty"
@@ -30,19 +32,17 @@ weight = 5
 
 # Research
 
-I am a senior researcher in Integrated Assessment Modelling  
-at the RFF-CMCC European Institute on Economics and the Environment ([EIEE](https://www.eiee.org/))
+I am a senior scientist  
+at the RFF-CMCC European Institute on Economics and the Environment ([EIEE](https://www.eiee.org/)),
+which is part of the Fondazione Centro Euro-Mediterraneo sui Cambiamenti Climatici ([CMCC](https://www.cmcc.it))
 in Milan in Italy.
 My research interests include the modelling of human and environmental systems in the context of climate change, the decision making under uncertainty and advances in optimization frameworks.
 
-In the past, I developed algorithms to couple models of different kind 
-in an optimization framework
+In the past, I developed numerical methods to couple models of different kind in an optimization framework
 (for example, the coupling of the economy and the climate, the energy system and air pollution). I also developed an open-source energy system model [ETEM](https://github.com/lolow/leaqweb/blob/master/lib/etem/etem.gms.template) in GAMS and GMPL.
 
 I currently co-lead the development of the [WITCH model](http://www.witchmodel.org) which aims at assessing climate change impacts and the solutions to takle them.
 I was involved in the implementation of various model components: energy system, economy, land-use, climate, air pollution, mitigation options and impacts.
-
-My approach in modelling and computer science is the one of a hacker, as [Pekka Himanen](http://pekkahimanen.net) describes the hacker ethic in his seminal book _"The Hacker Ethic and the Spirit of the Information Age"_.
 
 # Languages
 
